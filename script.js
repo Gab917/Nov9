@@ -80,6 +80,10 @@ const songs = [
         imageUrl: 'img/CallMeWhenYouHearThisSong.png',
         spotifyUrl: 'https://open.spotify.com/embed/track/4lLbPTGEAHcWpsbHlskpjc?utm_source=generator'
     },
+    {
+        imageUrl:'img/Lovesick',
+        spotifyUrl:"https://open.spotify.com/embed/track/5ppaqjvmfa17yPwCQ3xkxS?utm_source=generator"
+    }
 
 
 
