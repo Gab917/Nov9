@@ -81,7 +81,7 @@ const songs = [
         spotifyUrl: 'https://open.spotify.com/embed/track/4lLbPTGEAHcWpsbHlskpjc?utm_source=generator'
     },
     {
-        imageUrl:'img/Lovesick',
+        imageUrl:'img/Lovesick.png',
         spotifyUrl:"https://open.spotify.com/embed/track/5ppaqjvmfa17yPwCQ3xkxS?utm_source=generator"
     }
 
